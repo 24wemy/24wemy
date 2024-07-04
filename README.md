@@ -72,8 +72,8 @@
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24wemy&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24wemy&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=24wemy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=FF9D00&title_color=70A5FD&text_color=38BDAE" alt="24wemy" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24wemy&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE" alt="24wemy" height="165" />
 </div>
 
 <div align="center">
