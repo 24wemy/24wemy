@@ -79,15 +79,29 @@
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24wemy&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=24wemy&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24wemy&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24wemy&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="24wemy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24wemy&theme=radical&hide_border=true&background=0D1117" alt="24wemy" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24wemy&theme=radical&hide_border=true&background=0D1117" alt="24wemy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24wemy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" />
+</div>
+
+<h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=24wemy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="24wemy" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/24wemy/24wemy/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">Contributions</h3>
