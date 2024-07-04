@@ -12,17 +12,17 @@
 
 <div align="center" style="font-size: 1.3em; font-family: 'Open Sans', sans-serif;">
 
-- 🌱 Currently learning **Machine Learning**
-- 👯 Collaborating on [YogaScan](https://github.com/Yogascan)
-- 📫 Reach me at **Corintaogi2402@gmail.com**
-- 📄 Check out my portfolio: [ogiwemy.vercel.app](https://ogiwemy.vercel.app/)
-- ⚡ Fun fact: **I don't like coding, but I love problem-solving!**
+🌱 Currently learning **Machine Learning**
+| 👯 Collaborating on [YogaScan](https://github.com/Yogascan)
+| 📫 Reach me at **Corintaogi2402@gmail.com**
+| 📄 Check out my portfolio: [ogiwemy.vercel.app](https://ogiwemy.vercel.app/)
+|⚡ Fun fact: **I don't like coding, but I love problem-solving!**
 
 </div>
 
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ogi-wemy-corinta-045767261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ogi-wemy-corinta-045767261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="50" /></a>
 </p>
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">Languages and Tools</h3>
 <p align="center">
@@ -100,22 +100,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/24wemy/24wemy/blob/output/github-contribution-grid-snake.svg" />
-</div>
 
-<h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">Contributions</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24wemy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-<h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=24wemy&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="24wemy" />
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/24wemy/24wemy/blob/output/github-contribution-grid-snake.svg" />
-</div>
