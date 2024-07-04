@@ -85,10 +85,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=24wemy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" />
 </div>
 
-<h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=24wemy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="24wemy" />
-</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
