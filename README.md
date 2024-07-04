@@ -7,11 +7,9 @@
 
 - 👯 Collaborating to create a capstone project [YogaScan](https://github.com/Yogascan)
 
-- 👨‍💻 All of my projects are available at [https://ogiwemy.vercel.app/](https://ogiwemy.vercel.app/)
-
 - 📫 How to reach me **Corintaogi2402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UgiUf1iFCpV0onxxa-4dxFfHAXq-qV6D/view](https://drive.google.com/file/d/1UgiUf1iFCpV0onxxa-4dxFfHAXq-qV6D/view)
+- 📄 Know about my experiences [https://ogiwemy.vercel.app/](https://ogiwemy.vercel.app/)
 
 - ⚡ Fun fact **I don't like coding.**
 
