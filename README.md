@@ -80,9 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=24wemy&theme=radical&hide_border=true&background=0D1117" alt="24wemy" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24wemy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" />
-</div>
 
 
 <div align="center">
