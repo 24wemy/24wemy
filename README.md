@@ -57,10 +57,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24wemy&theme=radical&hide_border=true&background=0D1117" alt="24wemy" height="180" />
-</div>
-
 
 
 <div align="center">
