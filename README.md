@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ogi+WEmy;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="font-size: 1.8em; font-family: 'Roboto', sans-serif;">Informatics Student | Machine Learning Enthusiast</h3>
+<h3 align="center" style="font-size: 1.8em; font-family: 'Roboto', sans-serif;">Informatics Student | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=24wemy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="24wemy" />
@@ -10,15 +10,6 @@
   <img src="https://img.shields.io/github/stars/24wemy?style=for-the-badge" alt="stars" />
 </p>
 
-<div align="center" style="font-size: 1.3em; font-family: 'Open Sans', sans-serif;">
-
-🌱 Currently learning **Machine Learning**
-| 👯 Collaborating on [YogaScan](https://github.com/Yogascan)
-| 📫 Reach me at **Corintaogi2402@gmail.com**
-| 📄 Check out my portfolio: [ogiwemy.vercel.app](https://ogiwemy.vercel.app/)
-|⚡ Fun fact: **I don't like coding, but I love problem-solving!**
-
-</div>
 
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">Connect with me</h3>
 <p align="center">
@@ -34,9 +25,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
@@ -48,9 +36,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
