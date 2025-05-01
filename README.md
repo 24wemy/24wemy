@@ -16,8 +16,6 @@
   <a href="https://www.linkedin.com/in/ogi-wemy-corinta-045767261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="50" /></a>
 </p>
 
-
-
 </p>
 
 <h3 align="center" style="font-size: 2em; font-family: 'Poppins', sans-serif;">GitHub Stats</h3>
