@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ogi Wemy Corinta 👋
-AI Engineer building RAG systems, LLM apps, and full-stack AI products.
+# Hi, I'm Ogi Wemy
 
 </div>
 
