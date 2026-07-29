@@ -9,7 +9,7 @@ ogi@dev:~$ cat profile.json
 ```
 ```json
 {
-  "name": "Ogi Wemy Corinta",
+  "name": "Ogi Wemy",
   "role": "AI Engineer",
   "focus": ["RAG", "LLM", "Machine Learning", "Full-Stack AI", "Automation", "Data Science"],
   "stack": {
